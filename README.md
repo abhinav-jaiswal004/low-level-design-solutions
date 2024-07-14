@@ -21,7 +21,7 @@
 | Restaurant Management System |  https://www.geeksforgeeks.org/design-restaurant-management-system-system-design/       |        |
 | Quora Management System| https://www.linkedin.com/posts/thriverashish_system-design-of-quora-by-bosscoder-academy-activity-7002483566286704640-Rmap/   |        |
 |Url Shortner| https://www.geeksforgeeks.org/system-design-url-shortening-service/ |https://www.designgurus.io/blog/url-shortening |
-|| | |
+|PasteBin|https://www.enjoyalgorithms.com/blog/design-pastebin-system-design-interview-question | |
 || | |
 || | |
 || | |
