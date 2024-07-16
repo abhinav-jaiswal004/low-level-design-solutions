@@ -23,7 +23,7 @@
 |Url Shortner| https://www.geeksforgeeks.org/system-design-url-shortening-service/ |https://www.designgurus.io/blog/url-shortening |
 |PasteBin|https://www.enjoyalgorithms.com/blog/design-pastebin-system-design-interview-question | |
 |typeahead system| https://systemdesignschool.io/problems/typeahead | https://www.enjoyalgorithms.com/blog/design-typeahead-system |
-|| | |
+|Auction/ Bidding|https://medium.com/@shiva.kutti.kumar/system-design-for-a-online-bidding-system-adf417f39f44 | |
 || | |
 
 
